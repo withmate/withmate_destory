@@ -1,0 +1,8 @@
+language: java
+script: "make test"
+branches:
+  only:
+    - develop
+notifications:
+  email:
+    - changhwaoh.co@gmail.com
