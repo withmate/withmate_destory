@@ -16,6 +16,7 @@
 /*.iml
 /*.ipr
 /projectFilesBackup/*
+/.idea
 
 
 # default HSQL database files for production mode
