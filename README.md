@@ -1,4 +1,4 @@
-withmate
+withmate[![Build Status](https://travis-ci.org/withmate/withmate.png?branch=develop)](https://travis-ci.org/withmate/withmate)
 ========
 협업도구 withmate입니다.  
 해당 프로젝트는 @changhwa , @jinhyun 의 재미나게 진행해보기 위한 프로젝트 입니다.  
