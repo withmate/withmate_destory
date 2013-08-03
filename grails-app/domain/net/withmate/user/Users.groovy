@@ -7,10 +7,10 @@ class Users {
     String passwd
 
     static constraints = {
+        email (unique: true, blank: false)
+        name (blank: false)
+        passwd (size: 9..16, blank: false)
     }
 
-    static mapping = {
-        id generator: 'assigned' , name: "email"
-    }
 
 }
